@@ -121,6 +121,5 @@ export default function Github() {
 
 export const githubLoader = async () => {
     const response = await fetch('https://api.github.com/users/Ravan-mann');
-    const data = await response.json();
-    return data;
+    return response.json();
 }
