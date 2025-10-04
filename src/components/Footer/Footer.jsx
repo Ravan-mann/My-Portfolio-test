@@ -36,7 +36,7 @@ export default function Footer() {
                 }
                 // Fallback data if API fails
                 setData({
-                    login: 'Aryan55444',
+                    login: 'Ravan-mann',
                     avatar_url: 'https://github.com/identicons/Ravan-mann.png',
                     followers: 'N/A'
                 });
@@ -123,8 +123,8 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center  sm:justify-between">
                     <span className="text-sm text-white sm:text-center">
                         © 2025
-                        <a href="https://github.com/Aryan55444" className="hover:underline ml-1 text-white" target="_blank" rel="noreferrer">
-                            Aryan55444
+                        <a href="https://github.com/Ravan-mann" className="hover:underline ml-1 text-white" target="_blank" rel="noreferrer">
+                            Ravan-mann
                         </a>
                         . All Rights Reserved.
                     </span>
